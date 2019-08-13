@@ -1,0 +1,7 @@
+INFO:scrapy.core.engine:Spider closed (finished)
+
+
+
+
+
+----### Scraping finished, scraper closed in cmd logger string. ###----s
